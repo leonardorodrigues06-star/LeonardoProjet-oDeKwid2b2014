@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+    color: #b73030;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+}
+
+body {
+    background-color: black;
+}
+p {
+    color: blue;
+}
